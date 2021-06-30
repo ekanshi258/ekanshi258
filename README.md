@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Ekanshi Agrawal</h1>
-<h4 align="center">A final year (4th year) Computer Science major at BITS Pilani, Hyderabad Campus.</h4>
+<h4 align="center">A new grad with a Bachelors in Computer Science from BITS Pilani, Hyderabad Campus.</h4>
 
 
 [//]: # (<p align="left"> <img src="https://komarev.com/ghpvc/?username=ekanshi258" alt="ekanshi258" /> </p>)
@@ -7,19 +7,23 @@
 [![Visits Badge](https://badges.pufler.dev/visits/ekanshi258/ekanshi258?style=for-the-badge&color=blue)](https://github.com/ekanshi258/ekanshi258)
 ![Repos Badge](https://badges.pufler.dev/repos/ekanshi258?style=for-the-badge&color=red)
 
-- 🙋‍♀️ What I'm up to:
-  * 🍎 I'm currently a SWE Intern at **Apple, India**
-  * 🦁 and a Remote Research Intern at **NTU, Singapore**  
-  
-[//]: # (- 💻 I'm an incoming full time SWE at **Google, India**)
-- 👩‍💻 I was a Product (SWE) Intern at **Adobe, India**, for summer 2020  
-  
-- 📝 Other stuff I've worked on:  
-  * I've authored a [paper](https://link.springer.com/chapter/10.1007%2F978-981-15-6315-7_16) on **Emotion Recognition from Periocular Features** _(eye region)_  
-  * And more recently, another [paper](https://www.scitepress.org/Link.aspx?doi=10.5220/0010306810381045) titled **Emotion Recognition through Voting on Expressions in Multiple Facial Regions**
-  * I've worked on Nature-based optimization algorithms for real life engineering settings 
+- I'm a new grad SWE at *Google, India*
+- Previously, I've been a:
+  * 🍎 SWE Intern at *Apple, India*
+  * 🦁 Remote Research Intern at *NTU, Singapore*   
+  * 👩‍💻 Product (SWE) Intern at *Adobe, India*  
 
+- Research Stuff I've worked on:  
+  * 📝 I've authored a [paper](https://link.springer.com/chapter/10.1007%2F978-981-15-6315-7_16) on **Emotion Recognition from Periocular Features** _(eye region)_  
+  * 📝 And more recently, another [paper](https://www.scitepress.org/Link.aspx?doi=10.5220/0010306810381045) titled **Emotion Recognition through Voting on Expressions in Multiple Facial Regions**
+  * 🍃 I've worked on Nature-based optimization algorithms for real life engineering settings 
+  
+- Other stuff:
+  * I'm a Grace Hopper Celebration India **(GHCI) Student Scholar** (2020-21)
+  * I've initiated and have been leading efforts to foster interest in sport programming among girls in my university, and regularly set and hold contests.
 - 📫 Reach me: [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ekanshi-agrawal-77a607187)
+
+
 
 
 <!--
