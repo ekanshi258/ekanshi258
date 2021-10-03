@@ -19,8 +19,8 @@
   * 🍃 I've worked on Nature-based optimization algorithms for real life engineering settings 
   
 - Other stuff:
-  * I'm a Grace Hopper Celebration India **(GHCI) Student Scholar** (2020-21)
-  * I've initiated and have been leading efforts to foster interest in sport programming among girls in my university, and regularly set and hold contests.
+  * 👩‍🎓 I'm a Grace Hopper Celebration India **(GHCI) Student Scholar** (2020-21)
+  * 👩‍💻 I've initiated and have been leading efforts to foster interest in sport programming among girls in my university, and regularly set and hold contests.
 - 📫 Reach me: [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ekanshi-agrawal-77a607187)
 
 
